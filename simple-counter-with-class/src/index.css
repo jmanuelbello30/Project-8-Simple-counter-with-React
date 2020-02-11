@@ -1,0 +1,36 @@
+#title{
+  display: inline-block;
+  font-size: 110px;
+  margin-left: 30px;
+}
+
+.cardBox{
+  width: 800px;
+  padding-left: 265px;
+  padding-top: 50px;
+}
+
+.btn-primary{
+  width: 83px;
+  float: right;
+}
+
+.fa-clock{
+  font-size: 110px;
+}
+
+.firstButton{
+  color: white;
+  float: left;
+  padding-right: 15px;
+}
+
+.secondButton{
+  float: left;
+  padding-right: 15px;
+}
+
+.thirdButton{
+  float: left;
+  padding-right: 15px;
+}
